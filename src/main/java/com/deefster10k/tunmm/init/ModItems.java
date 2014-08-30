@@ -7,11 +7,11 @@ import cpw.mods.fml.common.registry.GameRegistry;
 
 public class ModItems
 {
-    public static final ItemTUNMM ingotResonant = new IngotResonium();
+    public static final ItemTUNMM ingotResonium = new IngotResonium();
     public static final ItemTUNMM ingotInfusedIron = new IngotInfusedIron();
     public static void init()
     {
-        GameRegistry.registerItem(ingotResonant, "ingotResonant");
+        GameRegistry.registerItem(ingotResonium, "ingotResonium");
         GameRegistry.registerItem(ingotInfusedIron, "ingotInfusedIron");
     }
 }
