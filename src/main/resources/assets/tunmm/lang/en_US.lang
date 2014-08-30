@@ -1,0 +1,6 @@
+item.tunmm:ingotInfusedIron.name=Infused Iron Ingot
+item.tunmm:ingotResonium.name=Resonium Ingot
+tile.tunmm:blockInfusedIron.name=Infused Iron Block
+tile.tunmm:blockResonium.name=Resonium Block
+tile.tunmm:oreResonium.name=Resonium Ore
+tile.tunmm:fluidWaterResonating.name=Resonating Water
